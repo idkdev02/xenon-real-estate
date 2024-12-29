@@ -2,7 +2,7 @@
 
 Live Link -->  https://idkdev02.github.io/xenon-real-estate/
 
-# Website Screenshots..
+# Screenshots
 
 Home Page
 <br>
